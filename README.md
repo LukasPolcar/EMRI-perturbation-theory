@@ -1,1 +1,2 @@
-This repository contains Maple notebooks for the paper "Extreme mass ratio inspirals into black holes surrounded by matter". 
+This is the repository  complementing  the paper "Extreme mass ratio inspirals into black holes surrounded by matter" where it is referenced. 
+The zip archive contains   Maple notebook  "Canonical perturbation theory.mw" which approximately transforms our Hamiltonian to action-angle coordinates while the second notebook "Gravitational-wave fluxes .mw" computes the fluxes of three independent constants of motion using the analytically found geodesics. These geodesics are included in the file analyticalgeod.m which can also be created using  the Canonical perturbation theory notebook.
